@@ -1,0 +1,17 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: hsl(0, 79%, 61%);
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  margin: 0 auto;
+  right: center;
+}
+.App {
+  text-align: center;
+  padding: 20px;
+}
+h1 {
+  color: #333;
+}
+
